@@ -1,3 +1,4 @@
-import numpy 22
+import numpy
 import pandas
 import pandas
+
